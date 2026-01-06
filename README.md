@@ -32,16 +32,3 @@ I am a passionate developer capable of building scalable web applications and cr
 
 ---
 
-### 📊 GitHub Stats
-
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### 📫 Connect with me
-
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-* **Portfolio:** [your-website.com](https://your-website.com)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
-
